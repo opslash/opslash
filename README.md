@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @opslash
-- 👀 I’m interested in .learning..
+- 👀 I’m interested in .learning Web development
 - 🌱 I’m currently learning ...DSA
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on Web Development Projects
+- 📫 How to reach me https://www.linkedin.com/in/monish-kawle-791a10209/
 
 <!---
 opslash/opslash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
